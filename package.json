@@ -1,0 +1,28 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe game",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmsnunes/tic-tac-toe.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tictactoe",
+    "game",
+    "js"
+  ],
+  "author": "pmsnunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmsnunes/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/pmsnunes/tic-tac-toe#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
